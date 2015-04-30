@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\loggerInfo\loggerInfo\bin\Debug\NLog.dll
+c:\users\admin\documents\visual studio 2013\Projects\loggerInfo\loggerInfo\bin\Debug\NLog.xml
+c:\users\admin\documents\visual studio 2013\Projects\loggerInfo\loggerInfo\bin\Debug\PROJLogger.dll
+c:\users\admin\documents\visual studio 2013\Projects\loggerInfo\loggerInfo\bin\Debug\PROJLogger.pdb
+c:\users\admin\documents\visual studio 2013\Projects\loggerInfo\loggerInfo\obj\Debug\PROJLogger.dll
+c:\users\admin\documents\visual studio 2013\Projects\loggerInfo\loggerInfo\obj\Debug\PROJLogger.pdb
